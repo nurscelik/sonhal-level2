@@ -1,0 +1,12 @@
+C:\Users\nurse\OneDrive\Masaüstü\Ltwo\Ltwo\bin\Debug\Ltwo.exe.config
+C:\Users\nurse\OneDrive\Masaüstü\Ltwo\Ltwo\bin\Debug\Ltwo.exe
+C:\Users\nurse\OneDrive\Masaüstü\Ltwo\Ltwo\bin\Debug\Ltwo.pdb
+C:\Users\nurse\OneDrive\Masaüstü\Ltwo\Ltwo\obj\Debug\Ltwo.csproj.AssemblyReference.cache
+C:\Users\nurse\OneDrive\Masaüstü\Ltwo\Ltwo\obj\Debug\Ltwo.csproj.SuggestedBindingRedirects.cache
+C:\Users\nurse\OneDrive\Masaüstü\Ltwo\Ltwo\obj\Debug\Ltwo.Form1.resources
+C:\Users\nurse\OneDrive\Masaüstü\Ltwo\Ltwo\obj\Debug\Ltwo.Properties.Resources.resources
+C:\Users\nurse\OneDrive\Masaüstü\Ltwo\Ltwo\obj\Debug\Ltwo.csproj.GenerateResource.cache
+C:\Users\nurse\OneDrive\Masaüstü\Ltwo\Ltwo\obj\Debug\Ltwo.csproj.CoreCompileInputs.cache
+C:\Users\nurse\OneDrive\Masaüstü\Ltwo\Ltwo\obj\Debug\Ltwo.exe
+C:\Users\nurse\OneDrive\Masaüstü\Ltwo\Ltwo\obj\Debug\Ltwo.pdb
+C:\Users\nurse\OneDrive\Masaüstü\Ltwo\Ltwo\obj\Debug\Ltwo.veri.resources
